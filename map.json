@@ -1,5 +1,6 @@
-{
-  "AK": {
+[
+  {
+    "key": "AK",
     "style": {
       "fill": "url(#nationalPollsClosed)",
       "textFill": "#2a2a2a"
@@ -107,7 +108,8 @@
     "votingToday": false,
     "href": "/politics/2026-elections/alaska-senate-results"
   },
-  "AL": {
+  {
+    "key": "AL",
     "style": {
       "fill": "#CA262B",
       "textFill": "#fff"
@@ -182,7 +184,8 @@
     "votingToday": false,
     "href": "/politics/2026-elections/alabama-senate-results"
   },
-  "AZ": {
+  {
+    "key": "AZ",
     "style": {
       "fill": "#F5F5F5",
       "textFill": "#2A2A2A",
@@ -193,7 +196,8 @@
     "pollsClosed": false,
     "href": null
   },
-  "AR": {
+  {
+    "key": "AR",
     "style": {
       "fill": "#CA262B",
       "textFill": "#fff"
@@ -284,7 +288,8 @@
     "votingToday": false,
     "href": "/politics/2026-elections/arkansas-senate-results"
   },
-  "CA": {
+  {
+    "key": "CA",
     "style": {
       "fill": "#F5F5F5",
       "textFill": "#2A2A2A",
@@ -295,7 +300,8 @@
     "pollsClosed": false,
     "href": null
   },
-  "CO": {
+  {
+    "key": "CO",
     "style": {
       "fill": "#0071D0",
       "textFill": "#fff"
@@ -434,7 +440,8 @@
     "votingToday": false,
     "href": "/politics/2026-elections/colorado-senate-results"
   },
-  "CT": {
+  {
+    "key": "CT",
     "style": {
       "fill": "#F5F5F5",
       "textFill": "#2A2A2A",
@@ -445,7 +452,8 @@
     "pollsClosed": false,
     "href": null
   },
-  "DE": {
+  {
+    "key": "DE",
     "style": {
       "fill": "#0071D0",
       "textFill": "#fff"
@@ -520,7 +528,8 @@
     "votingToday": false,
     "href": "/politics/2026-elections/delaware-senate-results"
   },
-  "DC": {
+  {
+    "key": "DC",
     "style": {
       "fill": "#F5F5F5",
       "textFill": "#2A2A2A",
@@ -531,7 +540,8 @@
     "pollsClosed": false,
     "href": null
   },
-  "FL": {
+  {
+    "key": "FL",
     "style": {
       "fill": "#CA262B",
       "textFill": "#fff"
@@ -622,7 +632,8 @@
     "votingToday": false,
     "href": "/politics/2026-special-elections/florida-senate-results"
   },
-  "GA": {
+  {
+    "key": "GA",
     "style": {
       "fill": "#0071D0",
       "textFill": "#fff"
@@ -713,7 +724,8 @@
     "votingToday": false,
     "href": "/politics/2026-elections/georgia-senate-results"
   },
-  "HI": {
+  {
+    "key": "HI",
     "style": {
       "fill": "#F5F5F5",
       "textFill": "#2A2A2A",
@@ -724,7 +736,8 @@
     "pollsClosed": false,
     "href": null
   },
-  "ID": {
+  {
+    "key": "ID",
     "style": {
       "fill": "#CA262B",
       "textFill": "#fff"
@@ -831,7 +844,8 @@
     "votingToday": false,
     "href": "/politics/2026-elections/idaho-senate-results"
   },
-  "IL": {
+  {
+    "key": "IL",
     "style": {
       "fill": "#0071D0",
       "textFill": "#fff"
@@ -922,7 +936,8 @@
     "votingToday": false,
     "href": "/politics/2026-elections/illinois-senate-results"
   },
-  "IN": {
+  {
+    "key": "IN",
     "style": {
       "fill": "#F5F5F5",
       "textFill": "#2A2A2A",
@@ -933,7 +948,8 @@
     "pollsClosed": false,
     "href": null
   },
-  "IA": {
+  {
+    "key": "IA",
     "style": {
       "fill": "url(#flipToBlue)",
       "textFill": "#fff"
@@ -1024,7 +1040,8 @@
     "votingToday": false,
     "href": "/politics/2026-elections/iowa-senate-results"
   },
-  "KS": {
+  {
+    "key": "KS",
     "style": {
       "fill": "url(#flipToBlue)",
       "textFill": "#fff"
@@ -1115,7 +1132,8 @@
     "votingToday": false,
     "href": "/politics/2026-elections/kansas-senate-results"
   },
-  "KY": {
+  {
+    "key": "KY",
     "style": {
       "fill": "#CA262B",
       "textFill": "#fff"
@@ -1206,7 +1224,8 @@
     "votingToday": false,
     "href": "/politics/2026-elections/kentucky-senate-results"
   },
-  "LA": {
+  {
+    "key": "LA",
     "style": {
       "fill": "#CA262B",
       "textFill": "#fff"
@@ -1281,7 +1300,8 @@
     "votingToday": false,
     "href": "/politics/2026-elections/louisiana-senate-results"
   },
-  "ME": {
+  {
+    "key": "ME",
     "style": {
       "fill": "url(#flipToBlue)",
       "textFill": "#fff"
@@ -1452,7 +1472,8 @@
     "votingToday": false,
     "href": "/politics/2026-elections/maine-senate-results"
   },
-  "MD": {
+  {
+    "key": "MD",
     "style": {
       "fill": "#F5F5F5",
       "textFill": "#2A2A2A",
@@ -1463,7 +1484,8 @@
     "pollsClosed": false,
     "href": null
   },
-  "MA": {
+  {
+    "key": "MA",
     "style": {
       "fill": "#0071D0",
       "textFill": "#fff"
@@ -1570,7 +1592,8 @@
     "votingToday": false,
     "href": "/politics/2026-elections/massachusetts-senate-results"
   },
-  "MI": {
+  {
+    "key": "MI",
     "style": {
       "fill": "#0071D0",
       "textFill": "#fff"
@@ -1709,7 +1732,8 @@
     "votingToday": false,
     "href": "/politics/2026-elections/michigan-senate-results"
   },
-  "MN": {
+  {
+    "key": "MN",
     "style": {
       "fill": "#0071D0",
       "textFill": "#fff"
@@ -1832,7 +1856,8 @@
     "votingToday": false,
     "href": "/politics/2026-elections/minnesota-senate-results"
   },
-  "MS": {
+  {
+    "key": "MS",
     "style": {
       "fill": "url(#nationalPollsClosed)",
       "textFill": "#2a2a2a"
@@ -1908,7 +1933,8 @@
     "votingToday": false,
     "href": "/politics/2026-elections/mississippi-senate-results"
   },
-  "MO": {
+  {
+    "key": "MO",
     "style": {
       "fill": "#F5F5F5",
       "textFill": "#2A2A2A",
@@ -1919,7 +1945,8 @@
     "pollsClosed": false,
     "href": null
   },
-  "MT": {
+  {
+    "key": "MT",
     "style": {
       "fill": "#CA262B",
       "textFill": "#fff"
@@ -2026,7 +2053,8 @@
     "votingToday": false,
     "href": "/politics/2026-elections/montana-senate-results"
   },
-  "NE": {
+  {
+    "key": "NE",
     "style": {
       "fill": "#CA262B",
       "textFill": "#fff"
@@ -2149,7 +2177,8 @@
     "votingToday": false,
     "href": "/politics/2026-elections/nebraska-senate-results"
   },
-  "NV": {
+  {
+    "key": "NV",
     "style": {
       "fill": "#F5F5F5",
       "textFill": "#2A2A2A",
@@ -2160,7 +2189,8 @@
     "pollsClosed": false,
     "href": null
   },
-  "NH": {
+  {
+    "key": "NH",
     "style": {
       "fill": "#0071D0",
       "textFill": "#fff"
@@ -2251,7 +2281,8 @@
     "votingToday": false,
     "href": "/politics/2026-elections/new-hampshire-senate-results"
   },
-  "NJ": {
+  {
+    "key": "NJ",
     "style": {
       "fill": "#0071D0",
       "textFill": "#fff"
@@ -2358,7 +2389,8 @@
     "votingToday": false,
     "href": "/politics/2026-elections/new-jersey-senate-results"
   },
-  "NM": {
+  {
+    "key": "NM",
     "style": {
       "fill": "#0071D0",
       "textFill": "#fff"
@@ -2433,7 +2465,8 @@
     "votingToday": false,
     "href": "/politics/2026-elections/new-mexico-senate-results"
   },
-  "NY": {
+  {
+    "key": "NY",
     "style": {
       "fill": "#F5F5F5",
       "textFill": "#2A2A2A",
@@ -2444,7 +2477,8 @@
     "pollsClosed": false,
     "href": null
   },
-  "NC": {
+  {
+    "key": "NC",
     "style": {
       "fill": "url(#flipToBlue)",
       "textFill": "#fff"
@@ -2551,7 +2585,8 @@
     "votingToday": false,
     "href": "/politics/2026-elections/north-carolina-senate-results"
   },
-  "ND": {
+  {
+    "key": "ND",
     "style": {
       "fill": "#F5F5F5",
       "textFill": "#2A2A2A",
@@ -2562,7 +2597,8 @@
     "pollsClosed": false,
     "href": null
   },
-  "OH": {
+  {
+    "key": "OH",
     "style": {
       "fill": "url(#flipToBlue)",
       "textFill": "#fff"
@@ -2669,7 +2705,8 @@
     "votingToday": false,
     "href": "/politics/2026-special-elections/ohio-senate-results"
   },
-  "OK": {
+  {
+    "key": "OK",
     "style": {
       "fill": "#CA262B",
       "textFill": "#fff"
@@ -2792,7 +2829,8 @@
     "votingToday": false,
     "href": "/politics/2026-elections/oklahoma-senate-results"
   },
-  "OR": {
+  {
+    "key": "OR",
     "style": {
       "fill": "#0071D0",
       "textFill": "#fff"
@@ -2915,7 +2953,8 @@
     "votingToday": false,
     "href": "/politics/2026-elections/oregon-senate-results"
   },
-  "PA": {
+  {
+    "key": "PA",
     "style": {
       "fill": "#F5F5F5",
       "textFill": "#2A2A2A",
@@ -2926,7 +2965,8 @@
     "pollsClosed": false,
     "href": null
   },
-  "RI": {
+  {
+    "key": "RI",
     "style": {
       "fill": "#0071D0",
       "textFill": "#fff"
@@ -3033,7 +3073,8 @@
     "votingToday": false,
     "href": "/politics/2026-elections/rhode-island-senate-results"
   },
-  "SC": {
+  {
+    "key": "SC",
     "style": {
       "fill": "url(#flipToBlue)",
       "textFill": "#fff"
@@ -3156,7 +3197,8 @@
     "votingToday": false,
     "href": "/politics/2026-elections/south-carolina-senate-results"
   },
-  "SD": {
+  {
+    "key": "SD",
     "style": {
       "fill": "#CA262B",
       "textFill": "#fff"
@@ -3231,7 +3273,8 @@
     "votingToday": false,
     "href": "/politics/2026-elections/south-dakota-senate-results"
   },
-  "TN": {
+  {
+    "key": "TN",
     "style": {
       "fill": "#CA262B",
       "textFill": "#fff"
@@ -3434,7 +3477,8 @@
     "votingToday": false,
     "href": "/politics/2026-elections/tennessee-senate-results"
   },
-  "TX": {
+  {
+    "key": "TX",
     "style": {
       "fill": "url(#flipToBlue)",
       "textFill": "#fff"
@@ -3525,7 +3569,8 @@
     "votingToday": false,
     "href": "/politics/2026-elections/texas-senate-results"
   },
-  "UT": {
+  {
+    "key": "UT",
     "style": {
       "fill": "#F5F5F5",
       "textFill": "#2A2A2A",
@@ -3536,7 +3581,8 @@
     "pollsClosed": false,
     "href": null
   },
-  "VT": {
+  {
+    "key": "VT",
     "style": {
       "fill": "#F5F5F5",
       "textFill": "#2A2A2A",
@@ -3547,7 +3593,8 @@
     "pollsClosed": false,
     "href": null
   },
-  "VA": {
+  {
+    "key": "VA",
     "style": {
       "fill": "#0071D0",
       "textFill": "#fff"
@@ -3638,7 +3685,8 @@
     "votingToday": false,
     "href": "/politics/2026-elections/virginia-senate-results"
   },
-  "WA": {
+  {
+    "key": "WA",
     "style": {
       "fill": "#F5F5F5",
       "textFill": "#2A2A2A",
@@ -3649,7 +3697,8 @@
     "pollsClosed": false,
     "href": null
   },
-  "WV": {
+  {
+    "key": "WV",
     "style": {
       "fill": "#CA262B",
       "textFill": "#fff"
@@ -3740,7 +3789,8 @@
     "votingToday": false,
     "href": "/politics/2026-elections/west-virginia-senate-results"
   },
-  "WI": {
+  {
+    "key": "WI",
     "style": {
       "fill": "#F5F5F5",
       "textFill": "#2A2A2A",
@@ -3751,7 +3801,8 @@
     "pollsClosed": false,
     "href": null
   },
-  "WY": {
+  {
+    "key": "WY",
     "style": {
       "fill": "#CA262B",
       "textFill": "#fff"
@@ -3826,7 +3877,8 @@
     "votingToday": false,
     "href": "/politics/2026-elections/wyoming-senate-results"
   },
-  "US": {
+  {
+    "key": "US",
     "style": {
       "fill": "#0071D0",
       "textFill": "#fff"
@@ -3901,7 +3953,8 @@
     "votingToday": false,
     "href": "/politics/2026-elections/senate-results"
   },
-  "OH~P": {
+  {
+    "key": "OH~P",
     "style": {
       "fill": "url(#flipToBlue)",
       "textFill": "#fff"
@@ -4008,7 +4061,8 @@
     "votingToday": false,
     "href": "/politics/2026-special-elections/ohio-senate-results"
   },
-  "FL~P": {
+  {
+    "key": "FL~P",
     "style": {
       "fill": "#CA262B",
       "textFill": "#fff"
@@ -4099,4 +4153,4 @@
     "votingToday": false,
     "href": "/politics/2026-special-elections/florida-senate-results"
   }
-}
+]
